@@ -1,0 +1,1685 @@
+[
+  {
+    "slug": "sports",
+    "name": "Sports",
+    "count": 943,
+    "topMarkets": [
+      {
+        "slug": "atp-draper-medvede-2026-03-13",
+        "question": "BNP Paribas Open: Jack Draper vs Daniil Medvedev",
+        "yesPrice": 0.375,
+        "volume": 321830.83,
+        "alphaScore": 100,
+        "consensus": "STRONG_NO",
+        "edge": 0.375
+      },
+      {
+        "slug": "ucl-spo1-bog1-2026-03-17-bog1",
+        "question": "Will FK Bodø/Glimt win on 2026-03-17?",
+        "yesPrice": 0.21,
+        "volume": 181636.28,
+        "alphaScore": 92,
+        "consensus": "STRONG_NO",
+        "edge": 0.21
+      },
+      {
+        "slug": "will-tottenham-be-relegated-from-the-english-premier-league-after-the-202526-season",
+        "question": "Will Tottenham be relegated from the English Premier League after the 2025–26 season?",
+        "yesPrice": 0.3615,
+        "volume": 112362.19,
+        "alphaScore": 87,
+        "consensus": "STRONG_NO",
+        "edge": 0.362
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07",
+        "question": "BNP Paribas Open: Juan Manuel Cerundolo vs Arthur Rinderknech",
+        "yesPrice": 0.495,
+        "volume": 100795.42,
+        "alphaScore": 84,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "mls-clt-mia-2026-03-14-mia",
+        "question": "Will Inter Miami CF win on 2026-03-14?",
+        "yesPrice": 0.485,
+        "volume": 20866.43,
+        "alphaScore": 83,
+        "consensus": "STRONG_NO",
+        "edge": 0.485
+      },
+      {
+        "slug": "mex-jua-mon1-2026-03-13-jua",
+        "question": "Will FC Juárez win on 2026-03-13?",
+        "yesPrice": 0.355,
+        "volume": 7795.79,
+        "alphaScore": 77,
+        "consensus": "STRONG_NO",
+        "edge": 0.355
+      },
+      {
+        "slug": "will-sweden-qualify-for-the-2026-fifa-world-cup",
+        "question": "Will Sweden qualify for the 2026 FIFA World Cup?",
+        "yesPrice": 0.28,
+        "volume": 105281.45,
+        "alphaScore": 65,
+        "consensus": "STRONG_NO",
+        "edge": 0.28
+      },
+      {
+        "slug": "will-shai-gilgeous-alexander-win-the-20252026-nba-mvp",
+        "question": "Will Shai Gilgeous-Alexander win the 2025–2026 NBA MVP?",
+        "yesPrice": 0.885,
+        "volume": 1897167.16,
+        "alphaScore": 62,
+        "consensus": "STRONG_YES",
+        "edge": 0.115
+      },
+      {
+        "slug": "nba-min-gsw-2026-03-13",
+        "question": "Timberwolves vs. Warriors",
+        "yesPrice": 0.675,
+        "volume": 35530.11,
+        "alphaScore": 62,
+        "consensus": "STRONG_YES",
+        "edge": 0.325
+      },
+      {
+        "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+        "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+        "yesPrice": 0.345,
+        "volume": 4939620.87,
+        "alphaScore": 61,
+        "consensus": "STRONG_YES",
+        "edge": 0.655
+      },
+      {
+        "slug": "wta-pegula-rybakin-2026-03-12",
+        "question": "BNP Paribas Open: Jessica Pegula vs Elena Rybakina",
+        "yesPrice": 0.365,
+        "volume": 68761.61,
+        "alphaScore": 59,
+        "consensus": "STRONG_NO",
+        "edge": 0.365
+      },
+      {
+        "slug": "fl1-str-pfc-2026-03-15-str",
+        "question": "Will RC Strasbourg Alsace win on 2026-03-15?",
+        "yesPrice": 0.555,
+        "volume": 33754.74,
+        "alphaScore": 57,
+        "consensus": "STRONG_NO",
+        "edge": 0.555
+      },
+      {
+        "slug": "tur-gal-iba-2026-03-14-iba",
+        "question": "Will Rams Başakşehir FK win on 2026-03-14?",
+        "yesPrice": 0.205,
+        "volume": 7894.66,
+        "alphaScore": 57,
+        "consensus": "STRONG_NO",
+        "edge": 0.205
+      },
+      {
+        "slug": "will-barcelona-win-the-202526-la-liga",
+        "question": "Will Barcelona win the 2025–26 La Liga?",
+        "yesPrice": 0.81,
+        "volume": 1899664.5,
+        "alphaScore": 56,
+        "consensus": "STRONG_YES",
+        "edge": 0.19
+      },
+      {
+        "slug": "will-the-oklahoma-city-thunder-win-the-nba-western-conference-finals",
+        "question": "Will the Oklahoma City Thunder win the NBA Western Conference Finals?",
+        "yesPrice": 0.485,
+        "volume": 419462.69,
+        "alphaScore": 56,
+        "consensus": "STRONG_YES",
+        "edge": 0.515
+      },
+      {
+        "slug": "nhl-2025-26-art-ross-trophy-connor-mcdavid-winner",
+        "question": "Will Connor McDavid win the 2025–2026 NHL Art Ross Trophy?",
+        "yesPrice": 0.49,
+        "volume": 11916.27,
+        "alphaScore": 55,
+        "consensus": "STRONG_NO",
+        "edge": 0.49
+      },
+      {
+        "slug": "sea-tor-par-2026-03-13-tor",
+        "question": "Will Torino FC win on 2026-03-13?",
+        "yesPrice": 0.445,
+        "volume": 117761.23,
+        "alphaScore": 55,
+        "consensus": "STRONG_NO",
+        "edge": 0.445
+      },
+      {
+        "slug": "will-arsenal-win-the-202526-carabao-cup",
+        "question": "Will Arsenal win the 2025–26 Carabao Cup?",
+        "yesPrice": 0.55,
+        "volume": 22395.24,
+        "alphaScore": 54,
+        "consensus": "STRONG_NO",
+        "edge": 0.55
+      },
+      {
+        "slug": "will-europe-win-the-2026-fifa-world-cup",
+        "question": "Will Europe win the 2026 FIFA World Cup?",
+        "yesPrice": 0.685,
+        "volume": 23315.7,
+        "alphaScore": 52,
+        "consensus": "STRONG_YES",
+        "edge": 0.315
+      },
+      {
+        "slug": "tur-gal-iba-2026-03-14-gal",
+        "question": "Will Galatasaray SK win on 2026-03-14?",
+        "yesPrice": 0.595,
+        "volume": 5720.48,
+        "alphaScore": 52,
+        "consensus": "STRONG_NO",
+        "edge": 0.595
+      }
+    ]
+  },
+  {
+    "slug": "us-politics",
+    "name": "US Politics",
+    "count": 917,
+    "topMarkets": [
+      {
+        "slug": "will-the-iranian-regime-fall-by-april-30",
+        "question": "Will the Iranian regime fall by April 30?",
+        "yesPrice": 0.115,
+        "volume": 2972867.49,
+        "alphaScore": 100,
+        "consensus": "STRONG_NO",
+        "edge": 0.115
+      },
+      {
+        "slug": "will-emmanuel-grgoire-win-the-paris-mayor-election",
+        "question": "Will Emmanuel Grégoire win the Paris mayor election?",
+        "yesPrice": 0.685,
+        "volume": 317794.28,
+        "alphaScore": 99,
+        "consensus": "STRONG_YES",
+        "edge": 0.315
+      },
+      {
+        "slug": "will-hezbollah-disarm-by-march-31",
+        "question": "Will Hezbollah disarm by March 31?",
+        "yesPrice": 0.053,
+        "volume": 693880.65,
+        "alphaScore": 74,
+        "consensus": "STRONG_NO",
+        "edge": 0.053
+      },
+      {
+        "slug": "will-ken-paxton-win-the-2026-republican-primary",
+        "question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+        "yesPrice": 0.39,
+        "volume": 3712716.76,
+        "alphaScore": 72,
+        "consensus": "LEAN_YES",
+        "edge": 0.427
+      },
+      {
+        "slug": "will-trump-say-bitcoin-in-march",
+        "question": "Will Trump say \"Bitcoin\" in March?",
+        "yesPrice": 0.36,
+        "volume": 5334.75,
+        "alphaScore": 68,
+        "consensus": "STRONG_NO",
+        "edge": 0.36
+      },
+      {
+        "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+        "question": "Billionaire one-time wealth tax passes in California election 2026?",
+        "yesPrice": 0.315,
+        "volume": 2676445.84,
+        "alphaScore": 63,
+        "consensus": "STRONG_NO",
+        "edge": 0.315
+      },
+      {
+        "slug": "will-rachida-dati-win-the-paris-mayor-election",
+        "question": "Will Rachida Dati win the Paris mayor election?",
+        "yesPrice": 0.305,
+        "volume": 341772.96,
+        "alphaScore": 50,
+        "consensus": "STRONG_YES",
+        "edge": 0.695
+      },
+      {
+        "slug": "will-trump-say-third-term-in-march",
+        "question": "Will Trump say \"Third term\" in March?",
+        "yesPrice": 0.415,
+        "volume": 14056.54,
+        "alphaScore": 49,
+        "consensus": "LEAN_YES",
+        "edge": 0.41
+      },
+      {
+        "slug": "will-brad-raffensperger-win-the-2026-georgia-governor-republican-primary-election",
+        "question": "Will Brad Raffensperger win the 2026 Georgia Governor Republican primary election?",
+        "yesPrice": 0.145,
+        "volume": 41401,
+        "alphaScore": 49,
+        "consensus": "STRONG_NO",
+        "edge": 0.145
+      },
+      {
+        "slug": "will-julia-letlow-be-the-republican-nominee-for-senate-in-louisiana",
+        "question": "Will Julia Letlow be the republican nominee for Senate in Louisiana?",
+        "yesPrice": 0.59,
+        "volume": 5416.27,
+        "alphaScore": 46,
+        "consensus": "STRONG_YES",
+        "edge": 0.41
+      },
+      {
+        "slug": "will-the-democrats-win-the-2028-us-presidential-election",
+        "question": "Will the Democrats win the 2028 US Presidential Election?",
+        "yesPrice": 0.555,
+        "volume": 626106.54,
+        "alphaScore": 41,
+        "consensus": "STRONG_YES",
+        "edge": 0.445
+      },
+      {
+        "slug": "will-trump-say-coward-in-march",
+        "question": "Will Trump say \"Coward\" in March?",
+        "yesPrice": 0.385,
+        "volume": 4053.12,
+        "alphaScore": 39,
+        "consensus": "STRONG_NO",
+        "edge": 0.385
+      },
+      {
+        "slug": "will-trump-say-drill-baby-drill-in-march",
+        "question": "Will Trump say \"Drill Baby Drill\" in March?",
+        "yesPrice": 0.545,
+        "volume": 5561.52,
+        "alphaScore": 38,
+        "consensus": "STRONG_YES",
+        "edge": 0.455
+      },
+      {
+        "slug": "will-jo-rae-perkins-be-the-republican-nominee-for-senate-in-oregon",
+        "question": "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?",
+        "yesPrice": 0.595,
+        "volume": 7571.95,
+        "alphaScore": 37,
+        "consensus": "STRONG_NO",
+        "edge": 0.595
+      },
+      {
+        "slug": "will-the-republican-party-hold-exactly-48-senate-seats-after-the-2026-midterm-elections-971",
+        "question": "Will the Republican Party hold exactly 48 Senate seats after the 2026 midterm elections?",
+        "yesPrice": 0.125,
+        "volume": 9575.42,
+        "alphaScore": 33,
+        "consensus": "STRONG_NO",
+        "edge": 0.125
+      },
+      {
+        "slug": "will-bill-gates-be-confirmed-to-have-visited-epsteins-island",
+        "question": "Will Bill Gates be confirmed to have visited Epstein’s island?",
+        "yesPrice": 0.125,
+        "volume": 81003.58,
+        "alphaScore": 33,
+        "consensus": "STRONG_NO",
+        "edge": 0.125
+      },
+      {
+        "slug": "will-trump-say-truth-social-in-march",
+        "question": "Will Trump say \"Truth Social\" in March?",
+        "yesPrice": 0.685,
+        "volume": 3638.25,
+        "alphaScore": 31,
+        "consensus": "STRONG_YES",
+        "edge": 0.315
+      },
+      {
+        "slug": "will-trump-say-miga-or-make-iran-great-again-this-week-march-15",
+        "question": "Will Trump say \"MIGA\" or \"Make Iran Great Again\" this week? (March 15)",
+        "yesPrice": 0.115,
+        "volume": 1675.09,
+        "alphaScore": 30,
+        "consensus": "STRONG_NO",
+        "edge": 0.115
+      },
+      {
+        "slug": "insurrection-act-invoked-by-december-31-184",
+        "question": "Insurrection Act invoked by December 31?",
+        "yesPrice": 0.28,
+        "volume": 101537.17,
+        "alphaScore": 30,
+        "consensus": "STRONG_NO",
+        "edge": 0.28
+      },
+      {
+        "slug": "is-jeffrey-epstein-alive-498",
+        "question": "Jeffrey Epstein confirmed to be alive before 2027?",
+        "yesPrice": 0.0575,
+        "volume": 1543378.79,
+        "alphaScore": 29,
+        "consensus": "STRONG_NO",
+        "edge": 0.057
+      }
+    ]
+  },
+  {
+    "slug": "unknown",
+    "name": "Other Markets",
+    "count": 916,
+    "topMarkets": [
+      {
+        "slug": "naim-qassem-out-as-hezbollahs-secretary-general-by-march-31-2026",
+        "question": "Naim Qassem out as Hezbollah’s secretary-general by March 31, 2026?",
+        "yesPrice": 0.34,
+        "volume": 311807.7,
+        "alphaScore": 100,
+        "consensus": "STRONG_NO",
+        "edge": 0.34
+      },
+      {
+        "slug": "kevin-warsh-confirmed-as-fed-chair-by-may-1",
+        "question": "Kevin Warsh confirmed as Fed Chair by May 1?",
+        "yesPrice": 0.415,
+        "volume": 237091.26,
+        "alphaScore": 94,
+        "consensus": "STRONG_NO",
+        "edge": 0.415
+      },
+      {
+        "slug": "will-robert-golob-be-the-next-prime-minister-of-slovenia",
+        "question": "Will Robert Golob be the next Prime Minister of Slovenia?",
+        "yesPrice": 0.29,
+        "volume": 67670.29,
+        "alphaScore": 84,
+        "consensus": "STRONG_NO",
+        "edge": 0.29
+      },
+      {
+        "slug": "will-powell-say-dollar-2-times-during-march-press-conference",
+        "question": "Will Powell say \"Dollar\" 2+ times during March press conference?",
+        "yesPrice": 0.415,
+        "volume": 7155.75,
+        "alphaScore": 79,
+        "consensus": "STRONG_NO",
+        "edge": 0.415
+      },
+      {
+        "slug": "another-critical-cloudflare-incident-by-april-30-2026",
+        "question": "Another critical Cloudflare incident by April 30, 2026?",
+        "yesPrice": 0.645,
+        "volume": 51030.75,
+        "alphaScore": 70,
+        "consensus": "STRONG_YES",
+        "edge": 0.355
+      },
+      {
+        "slug": "atp-cazaux-basilas-2026-03-12",
+        "question": "Phoenix: Arthur Cazaux vs Nikoloz Basilashvili",
+        "yesPrice": 0.505,
+        "volume": 36061.35,
+        "alphaScore": 66,
+        "consensus": "STRONG_YES",
+        "edge": 0.495
+      },
+      {
+        "slug": "mlb-cle-col-2026-03-08",
+        "question": "Cleveland Guardians vs. Colorado Rockies",
+        "yesPrice": 0.495,
+        "volume": 14509.49,
+        "alphaScore": 62,
+        "consensus": "STRONG_YES",
+        "edge": 0.505
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07-set-handicap-away-1pt5",
+        "question": "Set Handicap: Rinderknech (-1.5) vs Cerundolo (+1.5)",
+        "yesPrice": 0.495,
+        "volume": 15380.03,
+        "alphaScore": 60,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "atp-agameno-ouden-2026-03-09",
+        "question": "Santiago: Franco Agamenone vs Guy Den Ouden",
+        "yesPrice": 0.495,
+        "volume": 131186.24,
+        "alphaScore": 58,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "will-clavicular-be-the-top-ranked-chad-by-march-31",
+        "question": "Will Clavicular be the top ranked Chad by March 31?",
+        "yesPrice": 0.675,
+        "volume": 13824.79,
+        "alphaScore": 56,
+        "consensus": "STRONG_YES",
+        "edge": 0.325
+      },
+      {
+        "slug": "gpt-5pt5-released-by-april-30-2026-588-324",
+        "question": "GPT-5.5 released by April 30, 2026?",
+        "yesPrice": 0.68,
+        "volume": 114982.54,
+        "alphaScore": 55,
+        "consensus": "STRONG_YES",
+        "edge": 0.32
+      },
+      {
+        "slug": "us-strikes-yemen-by-march-31-2026",
+        "question": "US strikes Yemen by March 31, 2026?",
+        "yesPrice": 0.3715,
+        "volume": 221824.29,
+        "alphaScore": 51,
+        "consensus": "LEAN_NO",
+        "edge": 0.26
+      },
+      {
+        "slug": "will-40-ships-transit-the-strait-of-hormuz-on-any-day-in-march",
+        "question": "Will 40 ships transit the Strait of Hormuz on any day in March?",
+        "yesPrice": 0.23,
+        "volume": 20476.15,
+        "alphaScore": 50,
+        "consensus": "STRONG_NO",
+        "edge": 0.23
+      },
+      {
+        "slug": "save-act-becomes-law-by-april-30-2026",
+        "question": "SAVE Act becomes law by April 30, 2026?",
+        "yesPrice": 0.07,
+        "volume": 87766.74,
+        "alphaScore": 49,
+        "consensus": "STRONG_NO",
+        "edge": 0.07
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07-first-set-winner-Cerundolo-vs-Rinderknech",
+        "question": "Set 1 Winner: Cerundolo vs Rinderknech",
+        "yesPrice": 0.495,
+        "volume": 14941.5,
+        "alphaScore": 43,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07-first-set-total-10pt5",
+        "question": "Cerundolo vs. Rinderknech: Set 1 Games O/U 10.5",
+        "yesPrice": 0.495,
+        "volume": 20692.42,
+        "alphaScore": 43,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07-match-total-23pt5",
+        "question": "Cerundolo vs. Rinderknech: Match O/U 23.5",
+        "yesPrice": 0.495,
+        "volume": 18298.35,
+        "alphaScore": 43,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07-first-set-total-8pt5",
+        "question": "Cerundolo vs. Rinderknech: Set 1 Games O/U 8.5",
+        "yesPrice": 0.505,
+        "volume": 22515.76,
+        "alphaScore": 43,
+        "consensus": "STRONG_YES",
+        "edge": 0.495
+      },
+      {
+        "slug": "atp-cerund-rinderk-2026-03-07-set-totals-2pt5",
+        "question": "Juan Manuel Cerundolo vs. Arthur Rinderknech: Total Sets O/U 2.5",
+        "yesPrice": 0.495,
+        "volume": 10228.37,
+        "alphaScore": 42,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "italy-nordio-reform-referendum-passes",
+        "question": "Italy Judicial Reform Referendum passes?",
+        "yesPrice": 0.395,
+        "volume": 43786.8,
+        "alphaScore": 41,
+        "consensus": "STRONG_YES",
+        "edge": 0.605
+      }
+    ]
+  },
+  {
+    "slug": "business",
+    "name": "Business & Economics",
+    "count": 783,
+    "topMarkets": [
+      {
+        "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-march-2026-437",
+        "question": "Will Anthropic have the best AI model at the end of March 2026?",
+        "yesPrice": 0.852,
+        "volume": 806967.97,
+        "alphaScore": 84,
+        "consensus": "STRONG_YES",
+        "edge": 0.148
+      },
+      {
+        "slug": "will-anthropic-have-the-second-best-ai-model-at-the-end-of-march-2026",
+        "question": "Will Anthropic have the second-best AI model at the end of March 2026?",
+        "yesPrice": 0.795,
+        "volume": 45061.44,
+        "alphaScore": 68,
+        "consensus": "STRONG_YES",
+        "edge": 0.205
+      },
+      {
+        "slug": "si-hit-120-high-jun-2026-868-341-771-388-669",
+        "question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+        "yesPrice": 0.2835,
+        "volume": 566960.28,
+        "alphaScore": 66,
+        "consensus": "STRONG_NO",
+        "edge": 0.284
+      },
+      {
+        "slug": "will-anthropic-have-the-top-ai-model-at-the-end-of-march-2026",
+        "question": "Will Anthropic have the top AI model at the end of March 2026?",
+        "yesPrice": 0.765,
+        "volume": 18605.1,
+        "alphaScore": 65,
+        "consensus": "STRONG_YES",
+        "edge": 0.235
+      },
+      {
+        "slug": "will-openai-have-a-1-ai-model-by-june-30",
+        "question": "Will OpenAI have a #1 AI model by June 30?",
+        "yesPrice": 0.225,
+        "volume": 302342.2,
+        "alphaScore": 52,
+        "consensus": "STRONG_NO",
+        "edge": 0.225
+      },
+      {
+        "slug": "si-settle-above-115-jun-2026",
+        "question": "Will Silver (SI) settle at >$115 in June?",
+        "yesPrice": 0.215,
+        "volume": 137152.13,
+        "alphaScore": 51,
+        "consensus": "STRONG_NO",
+        "edge": 0.215
+      },
+      {
+        "slug": "will-an-anthropic-claude-model-score-at-least-45-on-humanitys-last-exam",
+        "question": "Will an Anthropic Claude model score at least 45% on Humanity’s Last Exam?",
+        "yesPrice": 0.395,
+        "volume": 55857.29,
+        "alphaScore": 50,
+        "consensus": "STRONG_NO",
+        "edge": 0.395
+      },
+      {
+        "slug": "will-crude-oil-cl-hit-high-200-by-end-of-june-677",
+        "question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+        "yesPrice": 0.175,
+        "volume": 295520.89,
+        "alphaScore": 48,
+        "consensus": "STRONG_NO",
+        "edge": 0.175
+      },
+      {
+        "slug": "will-openai-have-the-best-ai-model-for-math-on-march-31",
+        "question": "Will OpenAI have the best AI model for math on March 31?",
+        "yesPrice": 0.885,
+        "volume": 24390.19,
+        "alphaScore": 45,
+        "consensus": "STRONG_YES",
+        "edge": 0.115
+      },
+      {
+        "slug": "aapl-above-260-on-march-31-2026",
+        "question": "Will Apple (AAPL) close above $260 end of March?",
+        "yesPrice": 0.45,
+        "volume": 3403.64,
+        "alphaScore": 44,
+        "consensus": "STRONG_NO",
+        "edge": 0.45
+      },
+      {
+        "slug": "will-xai-have-a-1-ai-model-by-june-30",
+        "question": "Will xAI have a #1 AI model by June 30?",
+        "yesPrice": 0.27,
+        "volume": 384226.24,
+        "alphaScore": 44,
+        "consensus": "STRONG_NO",
+        "edge": 0.27
+      },
+      {
+        "slug": "tsla-above-390-on-march-31-2026",
+        "question": "Will Tesla (TSLA) close above $390 end of March?",
+        "yesPrice": 0.585,
+        "volume": 14061.32,
+        "alphaScore": 42,
+        "consensus": "STRONG_NO",
+        "edge": 0.585
+      },
+      {
+        "slug": "will-crude-oil-cl-settle-at-90-in-march",
+        "question": "Will Crude Oil (CL) settle at $90+ in March?",
+        "yesPrice": 0.57,
+        "volume": 55723.07,
+        "alphaScore": 41,
+        "consensus": "STRONG_NO",
+        "edge": 0.57
+      },
+      {
+        "slug": "gc-hit-6200-high-jun-2026-163-341-565",
+        "question": "Will Gold (GC) hit (HIGH) $6,200 by end of June?",
+        "yesPrice": 0.29,
+        "volume": 50871.71,
+        "alphaScore": 38,
+        "consensus": "STRONG_NO",
+        "edge": 0.29
+      },
+      {
+        "slug": "tesla-and-spacex-merger-officially-announced-by-june-30",
+        "question": "Tesla and SpaceX merger officially announced by June 30?",
+        "yesPrice": 0.105,
+        "volume": 124960.27,
+        "alphaScore": 38,
+        "consensus": "STRONG_NO",
+        "edge": 0.105
+      },
+      {
+        "slug": "will-amzn-reach-224-in-march",
+        "question": "Will Amazon reach $224 in March?",
+        "yesPrice": 0.39,
+        "volume": 3218.57,
+        "alphaScore": 37,
+        "consensus": "STRONG_NO",
+        "edge": 0.39
+      },
+      {
+        "slug": "will-silver-si-hit-high-170-by-end-of-june-329-244-199-545",
+        "question": "Will Silver (SI) hit (HIGH) $170 by end of June?",
+        "yesPrice": 0.09,
+        "volume": 126303.32,
+        "alphaScore": 37,
+        "consensus": "STRONG_NO",
+        "edge": 0.09
+      },
+      {
+        "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting",
+        "question": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+        "yesPrice": 0.055,
+        "volume": 1494410.62,
+        "alphaScore": 37,
+        "consensus": "STRONG_YES",
+        "edge": 0.945
+      },
+      {
+        "slug": "will-google-have-the-best-ai-model-at-the-end-of-march-2026-941",
+        "question": "Will Google have the best AI model at the end of March 2026?",
+        "yesPrice": 0.055,
+        "volume": 670715.33,
+        "alphaScore": 34,
+        "consensus": "LEAN_YES",
+        "edge": 0.662
+      },
+      {
+        "slug": "si-hit-200-high-jun-2026-446-464-464",
+        "question": "Will Silver (SI) hit (HIGH) $200 by end of June?",
+        "yesPrice": 0.065,
+        "volume": 363323.26,
+        "alphaScore": 33,
+        "consensus": "STRONG_NO",
+        "edge": 0.065
+      }
+    ]
+  },
+  {
+    "slug": "crypto",
+    "name": "Crypto & Web3",
+    "count": 641,
+    "topMarkets": [
+      {
+        "slug": "will-bitcoin-reach-80k-in-march-2026",
+        "question": "Will Bitcoin reach $80,000 in March?",
+        "yesPrice": 0.29,
+        "volume": 1547555.72,
+        "alphaScore": 100,
+        "consensus": "STRONG_NO",
+        "edge": 0.29
+      },
+      {
+        "slug": "will-bitcoin-dip-to-50k-in-march-2026",
+        "question": "Will Bitcoin dip to $50,000 in March?",
+        "yesPrice": 0.055,
+        "volume": 1301647.84,
+        "alphaScore": 59,
+        "consensus": "STRONG_NO",
+        "edge": 0.055
+      },
+      {
+        "slug": "megaeth-market-cap-fdv-2b-one-day-after-launch-738-867-649-272-765-733",
+        "question": "MegaETH market cap (FDV) >$2B one day after launch?",
+        "yesPrice": 0.185,
+        "volume": 5491468.29,
+        "alphaScore": 58,
+        "consensus": "STRONG_NO",
+        "edge": 0.185
+      },
+      {
+        "slug": "will-the-seattle-kraken-make-the-nhl-playoffs",
+        "question": "Will the Seattle Kraken make the NHL Playoffs?",
+        "yesPrice": 0.325,
+        "volume": 5189.29,
+        "alphaScore": 53,
+        "consensus": "STRONG_NO",
+        "edge": 0.325
+      },
+      {
+        "slug": "will-xrp-reach-1pt6-in-march-2026",
+        "question": "Will XRP reach $1.60 in March?",
+        "yesPrice": 0.34,
+        "volume": 22346,
+        "alphaScore": 50,
+        "consensus": "STRONG_NO",
+        "edge": 0.34
+      },
+      {
+        "slug": "will-bitcoin-reach-72k-march-9-15",
+        "question": "Will Bitcoin reach $72,000 March 9-15?",
+        "yesPrice": 0.735,
+        "volume": 99709.07,
+        "alphaScore": 46,
+        "consensus": "STRONG_YES",
+        "edge": 0.265
+      },
+      {
+        "slug": "predictfun-fdv-above-400m-one-day-after-launch",
+        "question": "Predict.fun FDV above $400M one day after launch?",
+        "yesPrice": 0.39,
+        "volume": 255600.87,
+        "alphaScore": 46,
+        "consensus": "STRONG_NO",
+        "edge": 0.39
+      },
+      {
+        "slug": "predictfun-fdv-above-500m-one-day-after-launch",
+        "question": "Predict.fun FDV above $500M one day after launch?",
+        "yesPrice": 0.32,
+        "volume": 251290.9,
+        "alphaScore": 43,
+        "consensus": "STRONG_NO",
+        "edge": 0.32
+      },
+      {
+        "slug": "ethereum-above-2100-on-march-14",
+        "question": "Will the price of Ethereum be above $2,100 on March 14?",
+        "yesPrice": 0.405,
+        "volume": 3272.49,
+        "alphaScore": 40,
+        "consensus": "STRONG_NO",
+        "edge": 0.405
+      },
+      {
+        "slug": "will-ethereum-reach-3500-by-december-31-2026",
+        "question": "Will Ethereum reach $3,500 by December 31, 2026?",
+        "yesPrice": 0.365,
+        "volume": 170234.08,
+        "alphaScore": 40,
+        "consensus": "STRONG_NO",
+        "edge": 0.365
+      },
+      {
+        "slug": "will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+        "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+        "yesPrice": 0.395,
+        "volume": 954108.83,
+        "alphaScore": 38,
+        "consensus": "STRONG_NO",
+        "edge": 0.395
+      },
+      {
+        "slug": "will-solana-dip-to-50-in-march-2026",
+        "question": "Will Solana dip to $50 in March?",
+        "yesPrice": 0.0505,
+        "volume": 113169.68,
+        "alphaScore": 38,
+        "consensus": "STRONG_NO",
+        "edge": 0.05
+      },
+      {
+        "slug": "will-hyperliquid-reach-40-in-march",
+        "question": "Will Hyperliquid reach $40 in March?",
+        "yesPrice": 0.625,
+        "volume": 9091.3,
+        "alphaScore": 37,
+        "consensus": "STRONG_YES",
+        "edge": 0.375
+      },
+      {
+        "slug": "will-bitcoin-dip-to-66k-march-9-15",
+        "question": "Will Bitcoin dip to $66,000 March 9-15?",
+        "yesPrice": 0.135,
+        "volume": 77986.86,
+        "alphaScore": 37,
+        "consensus": "STRONG_NO",
+        "edge": 0.135
+      },
+      {
+        "slug": "will-xrp-dip-to-1pt2-in-march-2026",
+        "question": "Will XRP dip to $1.20 in March?",
+        "yesPrice": 0.37,
+        "volume": 9611,
+        "alphaScore": 37,
+        "consensus": "STRONG_YES",
+        "edge": 0.63
+      },
+      {
+        "slug": "will-the-price-of-bitcoin-be-between-70000-72000-on-march-16",
+        "question": "Will the price of Bitcoin be between $70,000 and $72,000 on March 16?",
+        "yesPrice": 0.245,
+        "volume": 528.7,
+        "alphaScore": 36,
+        "consensus": "STRONG_NO",
+        "edge": 0.245
+      },
+      {
+        "slug": "will-ethereum-dip-to-1800-in-march-2026",
+        "question": "Will Ethereum dip to $1,800 in March?",
+        "yesPrice": 0.335,
+        "volume": 377557.12,
+        "alphaScore": 34,
+        "consensus": "STRONG_YES",
+        "edge": 0.665
+      },
+      {
+        "slug": "will-bitcoin-reach-85k-in-march-2026",
+        "question": "Will Bitcoin reach $85,000 in March?",
+        "yesPrice": 0.085,
+        "volume": 1213359.63,
+        "alphaScore": 34,
+        "consensus": "LEAN_NO",
+        "edge": 0.059
+      },
+      {
+        "slug": "will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
+        "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
+        "yesPrice": 0.255,
+        "volume": 510910.86,
+        "alphaScore": 34,
+        "consensus": "STRONG_NO",
+        "edge": 0.255
+      },
+      {
+        "slug": "bitcoin-above-74k-on-march-18",
+        "question": "Will the price of Bitcoin be above $74,000 on March 18?",
+        "yesPrice": 0.24,
+        "volume": 2615.02,
+        "alphaScore": 33,
+        "consensus": "STRONG_NO",
+        "edge": 0.24
+      }
+    ]
+  },
+  {
+    "slug": "world-politics",
+    "name": "World Politics",
+    "count": 585,
+    "topMarkets": [
+      {
+        "slug": "will-cdu-win-the-most-seats-in-the-2026-rhineland-palatinate-parliamentary-elections",
+        "question": "Will CDU win the most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
+        "yesPrice": 0.505,
+        "volume": 174345.5,
+        "alphaScore": 100,
+        "consensus": "STRONG_YES",
+        "edge": 0.495
+      },
+      {
+        "slug": "trump-announces-end-of-military-operations-against-iran-by-april-30th",
+        "question": "Trump announces end of military operations against Iran by April 30th?",
+        "yesPrice": 0.71,
+        "volume": 152549.37,
+        "alphaScore": 100,
+        "consensus": "STRONG_YES",
+        "edge": 0.29
+      },
+      {
+        "slug": "will-the-iranian-regime-fall-by-march-31",
+        "question": "Will the Iranian regime fall by March 31?",
+        "yesPrice": 0.0505,
+        "volume": 30639824.79,
+        "alphaScore": 100,
+        "consensus": "STRONG_NO",
+        "edge": 0.05
+      },
+      {
+        "slug": "usisrael-strike-on-fordow-nuclear-facility-by-march-31-388",
+        "question": "US/Israel strike on Fordow nuclear facility by March 31?",
+        "yesPrice": 0.33,
+        "volume": 359389.06,
+        "alphaScore": 100,
+        "consensus": "STRONG_NO",
+        "edge": 0.33
+      },
+      {
+        "slug": "will-crude-oil-cl-hit-high-150-by-end-of-march-138-937-747",
+        "question": "Will Crude Oil (CL) hit (HIGH) $150 by end of March?",
+        "yesPrice": 0.1555,
+        "volume": 3903848.21,
+        "alphaScore": 91,
+        "consensus": "STRONG_NO",
+        "edge": 0.155
+      },
+      {
+        "slug": "pakistan-x-afghanistan-ceasefire-by-march-31",
+        "question": "Pakistan x Afghanistan ceasefire by March 31?",
+        "yesPrice": 0.285,
+        "volume": 72224.79,
+        "alphaScore": 85,
+        "consensus": "STRONG_NO",
+        "edge": 0.285
+      },
+      {
+        "slug": "will-israel-or-the-us-target-fordow-nuclear-facility",
+        "question": "Will Israel or the US target Fordow nuclear facility?",
+        "yesPrice": 0.355,
+        "volume": 55847.53,
+        "alphaScore": 84,
+        "consensus": "STRONG_NO",
+        "edge": 0.355
+      },
+      {
+        "slug": "will-us-or-israel-strike-iran-first",
+        "question": "Will US or Israel strike Iran first?",
+        "yesPrice": 0.4995,
+        "volume": 6432856.63,
+        "alphaScore": 83,
+        "consensus": "LEAN_YES",
+        "edge": 0.35
+      },
+      {
+        "slug": "will-crude-oil-cl-hit-high-180-by-end-of-march-692",
+        "question": "Will Crude Oil (CL) hit (HIGH) $180 by end of March?",
+        "yesPrice": 0.059,
+        "volume": 1636313.79,
+        "alphaScore": 83,
+        "consensus": "STRONG_NO",
+        "edge": 0.059
+      },
+      {
+        "slug": "will-reza-pahlavi-enter-iran-by-june-30-555-947-362",
+        "question": "Will Reza Pahlavi enter Iran by June 30?",
+        "yesPrice": 0.145,
+        "volume": 1403325.69,
+        "alphaScore": 65,
+        "consensus": "STRONG_NO",
+        "edge": 0.145
+      },
+      {
+        "slug": "will-russia-capture-kostyantynivka-by-june-30-382-954",
+        "question": "Will Russia capture Kostyantynivka by June 30?",
+        "yesPrice": 0.675,
+        "volume": 77713.09,
+        "alphaScore": 63,
+        "consensus": "STRONG_YES",
+        "edge": 0.325
+      },
+      {
+        "slug": "miguel-daz-canel-out-as-leader-of-cuba-by-march-31-971-121",
+        "question": "Miguel Díaz-Canel out as leader of Cuba by March 31?",
+        "yesPrice": 0.0835,
+        "volume": 53782.95,
+        "alphaScore": 61,
+        "consensus": "STRONG_NO",
+        "edge": 0.084
+      },
+      {
+        "slug": "houthi-strike-on-israel-by-march-15-2026",
+        "question": "Houthi strike on Israel by March 15, 2026?",
+        "yesPrice": 0.13,
+        "volume": 564369.13,
+        "alphaScore": 60,
+        "consensus": "STRONG_NO",
+        "edge": 0.13
+      },
+      {
+        "slug": "will-reza-pahlavi-enter-iran-by-march-31-282",
+        "question": "Will Reza Pahlavi enter Iran by March 31?",
+        "yesPrice": 0.0275,
+        "volume": 4680180.28,
+        "alphaScore": 58,
+        "consensus": "STRONG_NO",
+        "edge": 0.027
+      },
+      {
+        "slug": "will-any-eu-country-strike-iran-by-march-31",
+        "question": "Will any E.U. country strike Iran by March 31?",
+        "yesPrice": 0.09,
+        "volume": 196677.84,
+        "alphaScore": 56,
+        "consensus": "STRONG_NO",
+        "edge": 0.09
+      },
+      {
+        "slug": "will-the-us-invade-iran-by-march-31",
+        "question": "Will the U.S. invade Iran by March 31?",
+        "yesPrice": 0.1245,
+        "volume": 1465389.72,
+        "alphaScore": 56,
+        "consensus": "LEAN_NO",
+        "edge": 0.087
+      },
+      {
+        "slug": "will-uk-strike-iran-by-march-31",
+        "question": "Will UK strike Iran by March 31?",
+        "yesPrice": 0.065,
+        "volume": 659778.81,
+        "alphaScore": 55,
+        "consensus": "STRONG_NO",
+        "edge": 0.065
+      },
+      {
+        "slug": "will-france-uk-or-germany-strike-iran-by-june-30-259",
+        "question": "Will France, UK, or Germany strike Iran by June 30?",
+        "yesPrice": 0.175,
+        "volume": 307406.99,
+        "alphaScore": 54,
+        "consensus": "STRONG_NO",
+        "edge": 0.175
+      },
+      {
+        "slug": "will-russia-capture-all-of-stepnohirsk-by-march-31-2026-627",
+        "question": "Will Russia capture all of Stepnohirsk by March 31, 2026?",
+        "yesPrice": 0.065,
+        "volume": 212942.27,
+        "alphaScore": 54,
+        "consensus": "STRONG_NO",
+        "edge": 0.065
+      },
+      {
+        "slug": "will-the-us-invade-iran-before-2027",
+        "question": "Will the U.S. invade Iran before 2027?",
+        "yesPrice": 0.34,
+        "volume": 610241.16,
+        "alphaScore": 54,
+        "consensus": "STRONG_NO",
+        "edge": 0.34
+      }
+    ]
+  },
+  {
+    "slug": "pop-culture",
+    "name": "Pop Culture",
+    "count": 267,
+    "topMarkets": [
+      {
+        "slug": "will-mrbeasts-next-video-get-between-80-and-90-million-views-on-week-1-363",
+        "question": "Will MrBeast's next video get between 80 and 90 million views on week 1?",
+        "yesPrice": 0.516,
+        "volume": 477595.43,
+        "alphaScore": 100,
+        "consensus": "STRONG_YES",
+        "edge": 0.484
+      },
+      {
+        "slug": "will-one-battle-after-another-win-best-cinematography-at-the-98th-academy-awards",
+        "question": "Will One Battle After Another win Best Cinematography at the 98th Academy Awards?",
+        "yesPrice": 0.755,
+        "volume": 581718.88,
+        "alphaScore": 91,
+        "consensus": "STRONG_YES",
+        "edge": 0.245
+      },
+      {
+        "slug": "will-epstein-be-said-at-the-oscars",
+        "question": "Will \"Epstein\" be said at the Oscars?",
+        "yesPrice": 0.415,
+        "volume": 5376.28,
+        "alphaScore": 79,
+        "consensus": "STRONG_NO",
+        "edge": 0.415
+      },
+      {
+        "slug": "will-amy-madigan-win-best-supporting-actress-at-the-98th-academy-awards",
+        "question": "Will Amy Madigan win Best Supporting Actress at the 98th Academy Awards?",
+        "yesPrice": 0.4815,
+        "volume": 344524.8,
+        "alphaScore": 70,
+        "consensus": "LEAN_YES",
+        "edge": 0.363
+      },
+      {
+        "slug": "will-sentimental-value-win-exactly-1-award-at-the-oscars",
+        "question": "Will \"Sentimental Value\" win exactly 1 award at the Oscars?",
+        "yesPrice": 0.575,
+        "volume": 9017.42,
+        "alphaScore": 63,
+        "consensus": "STRONG_YES",
+        "edge": 0.425
+      },
+      {
+        "slug": "will-ice-out-or-fuck-ice-be-said-at-the-oscars",
+        "question": "Will \"Ice Out\" or \"Fuck Ice\" be said at the Oscars?",
+        "yesPrice": 0.43,
+        "volume": 2784.19,
+        "alphaScore": 54,
+        "consensus": "STRONG_NO",
+        "edge": 0.43
+      },
+      {
+        "slug": "will-one-battle-after-another-win-best-picture-at-the-98th-academy-awards",
+        "question": "Will One Battle After Another win Best Picture at the 98th Academy Awards?",
+        "yesPrice": 0.765,
+        "volume": 2208564.28,
+        "alphaScore": 54,
+        "consensus": "LEAN_YES",
+        "edge": 0.164
+      },
+      {
+        "slug": "will-sinners-win-best-picture-at-the-98th-academy-awards",
+        "question": "Will Sinners win Best Picture at the 98th Academy Awards?",
+        "yesPrice": 0.199,
+        "volume": 1967941.63,
+        "alphaScore": 52,
+        "consensus": "STRONG_YES",
+        "edge": 0.801
+      },
+      {
+        "slug": "will-mrbeast-hit-477-million-subscribers-by-april-30",
+        "question": "Will MrBeast hit 477 million subscribers by April 30?",
+        "yesPrice": 0.535,
+        "volume": 4210.91,
+        "alphaScore": 50,
+        "consensus": "STRONG_YES",
+        "edge": 0.465
+      },
+      {
+        "slug": "will-ukraine-be-said-at-the-oscars",
+        "question": "Will \"Ukraine\" be said at the Oscars?",
+        "yesPrice": 0.405,
+        "volume": 670.81,
+        "alphaScore": 49,
+        "consensus": "STRONG_NO",
+        "edge": 0.405
+      },
+      {
+        "slug": "will-the-singers-win-best-live-action-short-film-at-the-98th-academy-awards",
+        "question": "Will The Singers win Best Live Action Short Film at the 98th Academy Awards?",
+        "yesPrice": 0.252,
+        "volume": 13854.77,
+        "alphaScore": 49,
+        "consensus": "STRONG_NO",
+        "edge": 0.252
+      },
+      {
+        "slug": "will-mrbeasts-next-video-get-90-million-or-more-views-on-week-1",
+        "question": "Will MrBeast's next video get 90 million or more views on week 1?",
+        "yesPrice": 0.4575,
+        "volume": 491361.32,
+        "alphaScore": 46,
+        "consensus": "LEAN_YES",
+        "edge": 0.38
+      },
+      {
+        "slug": "oscars-bingo",
+        "question": "Oscars Bingo",
+        "yesPrice": 0.55,
+        "volume": 5581.04,
+        "alphaScore": 45,
+        "consensus": "STRONG_YES",
+        "edge": 0.45
+      },
+      {
+        "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+        "question": "Will the US confirm that aliens exist before 2027?",
+        "yesPrice": 0.145,
+        "volume": 16725679.64,
+        "alphaScore": 44,
+        "consensus": "STRONG_NO",
+        "edge": 0.145
+      },
+      {
+        "slug": "will-polymarket-be-said-at-the-oscars",
+        "question": "Will \"Polymarket\" be said at the Oscars?",
+        "yesPrice": 0.145,
+        "volume": 3352.79,
+        "alphaScore": 40,
+        "consensus": "STRONG_NO",
+        "edge": 0.145
+      },
+      {
+        "slug": "will-wunmi-mosaku-win-best-supporting-actress-at-the-98th-academy-awards",
+        "question": "Will Wunmi Mosaku win Best Supporting Actress at the 98th Academy Awards?",
+        "yesPrice": 0.1885,
+        "volume": 588900.1,
+        "alphaScore": 38,
+        "consensus": "LEAN_YES",
+        "edge": 0.568
+      },
+      {
+        "slug": "will-teyana-taylor-win-best-supporting-actress-at-the-98th-academy-awards",
+        "question": "Will Teyana Taylor win Best Supporting Actress at the 98th Academy Awards?",
+        "yesPrice": 0.295,
+        "volume": 175070.3,
+        "alphaScore": 35,
+        "consensus": "LEAN_YES",
+        "edge": 0.494
+      },
+      {
+        "slug": "will-kevin-hart-attend-the-oscars",
+        "question": "Will Kevin Hart attend the Oscars?",
+        "yesPrice": 0.15,
+        "volume": 10753.37,
+        "alphaScore": 35,
+        "consensus": "STRONG_NO",
+        "edge": 0.15
+      },
+      {
+        "slug": "will-clavicular-cry-on-stream-by-may-1-2026",
+        "question": "Will Clavicular cry on stream by May 1, 2026",
+        "yesPrice": 0.45,
+        "volume": 3062.29,
+        "alphaScore": 34,
+        "consensus": "STRONG_YES",
+        "edge": 0.55
+      },
+      {
+        "slug": "will-arirang-bts-debut-week-album-sales-be-less-than-3m",
+        "question": "Will 'Arirang' - BTS debut week album sales be less than 3m?",
+        "yesPrice": 0.92,
+        "volume": 37607.96,
+        "alphaScore": 33,
+        "consensus": "STRONG_YES",
+        "edge": 0.08
+      }
+    ]
+  },
+  {
+    "slug": "science",
+    "name": "Science & Technology",
+    "count": 138,
+    "topMarkets": [
+      {
+        "slug": "another-7pt0-or-above-earthquake-by-march-31-2026-224",
+        "question": "Another 7.0 or above earthquake by March 31, 2026?",
+        "yesPrice": 0.5565,
+        "volume": 13081.14,
+        "alphaScore": 43,
+        "consensus": "STRONG_NO",
+        "edge": 0.557
+      },
+      {
+        "slug": "will-there-be-at-least-1600-measles-cases-in-the-us-by-march-31-2026-795",
+        "question": "Will there be at least 1600 measles cases in the U.S. by March 31, 2026?",
+        "yesPrice": 0.645,
+        "volume": 39299.27,
+        "alphaScore": 36,
+        "consensus": "STRONG_NO",
+        "edge": 0.645
+      },
+      {
+        "slug": "will-powell-say-pandemic-during-march-press-conference-478-338",
+        "question": "Will Powell say \"Pandemic\" during March press conference?",
+        "yesPrice": 0.6,
+        "volume": 3555.47,
+        "alphaScore": 31,
+        "consensus": "STRONG_NO",
+        "edge": 0.6
+      },
+      {
+        "slug": "named-storm-forms-before-hurricane-season-197",
+        "question": "Named storm forms before hurricane season?",
+        "yesPrice": 0.485,
+        "volume": 293747.3,
+        "alphaScore": 26,
+        "consensus": "STRONG_YES",
+        "edge": 0.515
+      },
+      {
+        "slug": "will-global-temperature-increase-by-less-than-1pt10c-in-march-2026",
+        "question": "Will global temperature increase by less than 1.10ºC in March 2026?",
+        "yesPrice": 0.095,
+        "volume": 12299.39,
+        "alphaScore": 25,
+        "consensus": "STRONG_NO",
+        "edge": 0.095
+      },
+      {
+        "slug": "will-global-temperature-increase-by-between-1pt15c-and-1pt19c-in-march-2026",
+        "question": "Will global temperature increase by between 1.15ºC and 1.19ºC in March 2026?",
+        "yesPrice": 0.285,
+        "volume": 33881.42,
+        "alphaScore": 20,
+        "consensus": "STRONG_YES",
+        "edge": 0.715
+      },
+      {
+        "slug": "will-global-temperature-increase-by-between-1pt20c-and-1pt24c-in-march-2026",
+        "question": "Will global temperature increase by between 1.20ºC and 1.24ºC in March 2026?",
+        "yesPrice": 0.295,
+        "volume": 7702.81,
+        "alphaScore": 20,
+        "consensus": "STRONG_YES",
+        "edge": 0.705
+      },
+      {
+        "slug": "will-a-hurricane-form-by-may-31",
+        "question": "Will a hurricane form by May 31?",
+        "yesPrice": 0.077,
+        "volume": 32167.46,
+        "alphaScore": 18,
+        "consensus": "STRONG_NO",
+        "edge": 0.077
+      },
+      {
+        "slug": "fda-approves-retatrutide-this-year",
+        "question": "FDA approves Retatrutide this year?",
+        "yesPrice": 0.175,
+        "volume": 542230.08,
+        "alphaScore": 17,
+        "consensus": "STRONG_NO",
+        "edge": 0.175
+      },
+      {
+        "slug": "will-there-be-at-least-1550-measles-cases-in-the-us-by-march-31-2026",
+        "question": "Will there be at least 1550 measles cases in the U.S. by March 31, 2026?",
+        "yesPrice": 0.745,
+        "volume": 6679.61,
+        "alphaScore": 17,
+        "consensus": "STRONG_NO",
+        "edge": 0.745
+      },
+      {
+        "slug": "will-bruno-mars-have-a-1-hit-in-april",
+        "question": "Will Bruno Mars have a #1 hit in April?",
+        "yesPrice": 0.115,
+        "volume": 2666.99,
+        "alphaScore": 15,
+        "consensus": "STRONG_NO",
+        "edge": 0.115
+      },
+      {
+        "slug": "will-there-be-exactly-1-earthquake-of-magnitude-6pt5-or-higher-worldwide-by-march-15",
+        "question": "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide by March 15?",
+        "yesPrice": 0.23,
+        "volume": 22042.98,
+        "alphaScore": 14,
+        "consensus": "LEAN_NO",
+        "edge": 0.161
+      },
+      {
+        "slug": "will-there-be-exactly-2-earthquakes-of-magnitude-6pt5-or-higher-worldwide-by-march-15",
+        "question": "Will there be exactly 2 earthquakes of magnitude 6.5 or higher worldwide by March 15?",
+        "yesPrice": 0.042,
+        "volume": 25937.36,
+        "alphaScore": 14,
+        "consensus": "STRONG_NO",
+        "edge": 0.042
+      },
+      {
+        "slug": "will-there-be-exactly-6-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30",
+        "question": "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
+        "yesPrice": 0.18,
+        "volume": 81073.66,
+        "alphaScore": 12,
+        "consensus": "LEAN_YES",
+        "edge": 0.574
+      },
+      {
+        "slug": "highest-temperature-in-london-on-march-13-2026-11c",
+        "question": "Will the highest temperature in London be 11°C on March 13?",
+        "yesPrice": 0.445,
+        "volume": 13414.62,
+        "alphaScore": 11,
+        "consensus": "STRONG_YES",
+        "edge": 0.555
+      },
+      {
+        "slug": "will-2026-be-the-hottest-year-on-record",
+        "question": "Will 2026 be the hottest year on record?",
+        "yesPrice": 0.175,
+        "volume": 282046.7,
+        "alphaScore": 11,
+        "consensus": "STRONG_YES",
+        "edge": 0.825
+      },
+      {
+        "slug": "highest-temperature-in-seoul-on-march-13-2026-11c",
+        "question": "Will the highest temperature in Seoul be 11°C on March 13?",
+        "yesPrice": 0.37,
+        "volume": 7944.15,
+        "alphaScore": 11,
+        "consensus": "STRONG_YES",
+        "edge": 0.63
+      },
+      {
+        "slug": "will-there-be-exactly-5-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30",
+        "question": "Will there be exactly 5 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
+        "yesPrice": 0.0985,
+        "volume": 59635.88,
+        "alphaScore": 9,
+        "consensus": "STRONG_YES",
+        "edge": 0.902
+      },
+      {
+        "slug": "highest-temperature-in-dallas-on-march-14-2026-75forbelow",
+        "question": "Will the highest temperature in Dallas be 75°F or below on March 14?",
+        "yesPrice": 0.114,
+        "volume": 2288.35,
+        "alphaScore": 8,
+        "consensus": "STRONG_NO",
+        "edge": 0.114
+      },
+      {
+        "slug": "will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027",
+        "question": "Will any Category 5 hurricane make landfall in the US in before 2027?",
+        "yesPrice": 0.165,
+        "volume": 95693.41,
+        "alphaScore": 8,
+        "consensus": "LEAN_NO",
+        "edge": 0.116
+      }
+    ]
+  },
+  {
+    "slug": "entertainment",
+    "name": "Entertainment",
+    "count": 113,
+    "topMarkets": [
+      {
+        "slug": "will-michael-b-jordan-win-best-actor-at-the-98th-academy-awards",
+        "question": "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?",
+        "yesPrice": 0.532,
+        "volume": 1201915.27,
+        "alphaScore": 76,
+        "consensus": "LEAN_YES",
+        "edge": 0.328
+      },
+      {
+        "slug": "lol-ly-lll-2026-03-17",
+        "question": "LoL: LYON vs LOUD (BO5) - First Stand Group B",
+        "yesPrice": 0.77,
+        "volume": 58795.25,
+        "alphaScore": 45,
+        "consensus": "STRONG_YES",
+        "edge": 0.23
+      },
+      {
+        "slug": "will-leonardo-dicaprio-win-best-actor-at-the-98th-academy-awards",
+        "question": "Will Leonardo DiCaprio win Best Actor at the 98th Academy Awards?",
+        "yesPrice": 0.09,
+        "volume": 1062501.03,
+        "alphaScore": 32,
+        "consensus": "STRONG_YES",
+        "edge": 0.91
+      },
+      {
+        "slug": "val-pr1-g21-2026-03-13",
+        "question": "Valorant: Paper Rex vs G2 Esports (BO3) - VCT Masters Santiago Playoffs",
+        "yesPrice": 0.495,
+        "volume": 13194.81,
+        "alphaScore": 28,
+        "consensus": "STRONG_NO",
+        "edge": 0.495
+      },
+      {
+        "slug": "lol-gen-jdg-2026-03-17",
+        "question": "LoL: Gen.G vs JD Gaming (BO5) - First Stand Group B",
+        "yesPrice": 0.875,
+        "volume": 20366.25,
+        "alphaScore": 26,
+        "consensus": "STRONG_YES",
+        "edge": 0.125
+      },
+      {
+        "slug": "will-reminders-of-him-opening-weekend-box-office-be-between-13m-and-16m",
+        "question": "Will \"Reminders of Him\" Opening Weekend Box Office be between 13m and 16m?",
+        "yesPrice": 0.38,
+        "volume": 28164.4,
+        "alphaScore": 25,
+        "consensus": "LEAN_YES",
+        "edge": 0.434
+      },
+      {
+        "slug": "codmw-par-tex-2026-03-13",
+        "question": "Call of Duty: Paris Gentle Mates vs OpTic Texas (BO5) - Call of Duty League Stage 2 Major Qualifiers Qualifiers",
+        "yesPrice": 0.245,
+        "volume": 4566.46,
+        "alphaScore": 25,
+        "consensus": "STRONG_NO",
+        "edge": 0.245
+      },
+      {
+        "slug": "will-scream-7-3rd-weekend-box-office-be-less-than-7pt5m",
+        "question": "Will \"Scream 7\" 3rd Weekend Box Office be less than 7.5m?",
+        "yesPrice": 0.69,
+        "volume": 2035.71,
+        "alphaScore": 25,
+        "consensus": "STRONG_YES",
+        "edge": 0.31
+      },
+      {
+        "slug": "will-reminders-of-him-opening-weekend-box-office-be-between-16m-and-19m",
+        "question": "Will \"Reminders of Him\" Opening Weekend Box Office be between 16m and 19m?",
+        "yesPrice": 0.355,
+        "volume": 4939.68,
+        "alphaScore": 24,
+        "consensus": "STRONG_YES",
+        "edge": 0.645
+      },
+      {
+        "slug": "will-louis-theroux-inside-the-manosphere-be-the-2-global-netflix-movie-this-week",
+        "question": "Will \"Louis Theroux: Inside The Manosphere\" be the #2 global Netflix movie this week?",
+        "yesPrice": 0.5765,
+        "volume": 29144.48,
+        "alphaScore": 24,
+        "consensus": "LEAN_NO",
+        "edge": 0.404
+      },
+      {
+        "slug": "val-ns1-nrg-2026-03-13",
+        "question": "Valorant: Nongshim RedForce vs NRG (BO3) - VCT Masters Santiago Playoffs",
+        "yesPrice": 0.455,
+        "volume": 47087.57,
+        "alphaScore": 22,
+        "consensus": "STRONG_YES",
+        "edge": 0.545
+      },
+      {
+        "slug": "will-wagner-moura-win-best-actor-at-the-98th-academy-awards",
+        "question": "Will Wagner Moura win Best Actor at the 98th Academy Awards?",
+        "yesPrice": 0.048,
+        "volume": 729272.2,
+        "alphaScore": 22,
+        "consensus": "LEAN_YES",
+        "edge": 0.666
+      },
+      {
+        "slug": "will-zootopia-2-win-best-animated-feature-film-at-the-98th-academy-awards",
+        "question": "Will Zootopia 2 win Best Animated Feature Film at the 98th Academy Awards?",
+        "yesPrice": 0.0595,
+        "volume": 85344.94,
+        "alphaScore": 20,
+        "consensus": "STRONG_YES",
+        "edge": 0.941
+      },
+      {
+        "slug": "cs2-mglz-navi-2026-03-13",
+        "question": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - ESL Pro League Playoffs",
+        "yesPrice": 0.425,
+        "volume": 172644.21,
+        "alphaScore": 18,
+        "consensus": "STRONG_YES",
+        "edge": 0.575
+      },
+      {
+        "slug": "cs2-navi-b8-2026-03-18",
+        "question": "Counter-Strike: Natus Vincere vs B8 (BO3) - BLAST Open Rotterdam Group A",
+        "yesPrice": 0.73,
+        "volume": 18700.33,
+        "alphaScore": 18,
+        "consensus": "STRONG_NO",
+        "edge": 0.73
+      },
+      {
+        "slug": "will-keya-kellum-get-engaged-on-love-is-blind-ohio",
+        "question": "Will Keya Kellum get engaged on Love is Blind: Ohio?",
+        "yesPrice": 0.3805,
+        "volume": 2073.69,
+        "alphaScore": 16,
+        "consensus": "STRONG_NO",
+        "edge": 0.38
+      },
+      {
+        "slug": "lol-blg-fox1-2026-03-16",
+        "question": "LoL: Bilibili Gaming vs BNK FEARX (BO5) - First Stand Group A",
+        "yesPrice": 0.685,
+        "volume": 419982.23,
+        "alphaScore": 16,
+        "consensus": "LEAN_NO",
+        "edge": 0.48
+      },
+      {
+        "slug": "will-geng-esports-win-the-lck-2026-season-playoffs",
+        "question": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+        "yesPrice": 0.535,
+        "volume": 62181.69,
+        "alphaScore": 16,
+        "consensus": "STRONG_YES",
+        "edge": 0.465
+      },
+      {
+        "slug": "will-avengers-doomsday-have-the-best-domestic-opening-weekend-in-2026",
+        "question": "Will Avengers: Doomsday have the best domestic opening weekend in 2026?",
+        "yesPrice": 0.755,
+        "volume": 64895.78,
+        "alphaScore": 16,
+        "consensus": "STRONG_YES",
+        "edge": 0.245
+      },
+      {
+        "slug": "will-i-lied-to-you-sinners-win-best-original-song-at-the-98th-academy-awards",
+        "question": "Will I Lied to You - Sinners win Best Original Song at the 98th Academy Awards?",
+        "yesPrice": 0.115,
+        "volume": 89293.88,
+        "alphaScore": 16,
+        "consensus": "LEAN_YES",
+        "edge": 0.619
+      }
+    ]
+  }
+]

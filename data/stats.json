@@ -1,0 +1,53 @@
+{
+  "totalMarkets": 5303,
+  "totalWallets": 500,
+  "smartWalletCount": 2454,
+  "categories": [
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "count": 943
+    },
+    {
+      "name": "US Politics",
+      "slug": "us-politics",
+      "count": 917
+    },
+    {
+      "name": "Other Markets",
+      "slug": "unknown",
+      "count": 916
+    },
+    {
+      "name": "Business & Economics",
+      "slug": "business",
+      "count": 783
+    },
+    {
+      "name": "Crypto & Web3",
+      "slug": "crypto",
+      "count": 641
+    },
+    {
+      "name": "World Politics",
+      "slug": "world-politics",
+      "count": 585
+    },
+    {
+      "name": "Pop Culture",
+      "slug": "pop-culture",
+      "count": 267
+    },
+    {
+      "name": "Science & Technology",
+      "slug": "science",
+      "count": 138
+    },
+    {
+      "name": "Entertainment",
+      "slug": "entertainment",
+      "count": 113
+    }
+  ],
+  "fetchedAt": "2026-03-13T00:26:26.241Z"
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "limit-order",
+    "term": "Limit Order",
+    "definition": "An order to buy or sell shares at a specific price or better. Limit orders sit in the orderbook until filled or cancelled.",
+    "extendedDefinition": "Limit Order is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding limit order is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, limit order connects to Market Order, Orderbook, Slippage. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "market-order",
+      "orderbook",
+      "slippage"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "market-order",
+    "term": "Market Order",
+    "definition": "An order executed immediately at the best available price. Guarantees execution but not price.",
+    "extendedDefinition": "Market Order is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding market order is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, market order connects to Limit Order, Slippage, Fill or Kill (FOK). PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "limit-order",
+      "slippage",
+      "fill-or-kill"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "fill-or-kill",
+    "term": "Fill or Kill (FOK)",
+    "definition": "An order that must execute immediately in its entirety or be cancelled completely. No partial fills allowed.",
+    "extendedDefinition": "Fill or Kill (FOK) is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding fill or kill (fok) is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, fill or kill (fok) connects to Market Order, Limit Order, Slippage. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "market-order",
+      "limit-order",
+      "slippage"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "position-sizing",
+    "term": "Position Sizing",
+    "definition": "Determining how much capital to allocate per trade. Prevents any single loss from crippling your bankroll.",
+    "extendedDefinition": "Position Sizing is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding position sizing is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, position sizing connects to Bankroll Management, Kelly Criterion, Risk-Reward Ratio. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "bankroll-management",
+      "kelly-criterion",
+      "risk-reward-ratio"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "stop-loss",
+    "term": "Stop Loss",
+    "definition": "A predetermined exit price to limit losses. In prediction markets, typically mental rather than automated.",
+    "extendedDefinition": "Stop Loss is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding stop loss is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, stop loss connects to Take Profit, Risk-Reward Ratio, Drawdown. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "take-profit",
+      "risk-reward-ratio",
+      "drawdown"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "take-profit",
+    "term": "Take Profit",
+    "definition": "A predetermined exit price to lock in gains. Prevents giving back unrealized profits during reversals.",
+    "extendedDefinition": "Take Profit is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding take profit is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, take profit connects to Stop Loss, Position Sizing, Risk-Reward Ratio. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "stop-loss",
+      "position-sizing",
+      "risk-reward-ratio"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "slippage",
+    "term": "Slippage",
+    "definition": "The difference between expected and actual execution price. Increases in low-liquidity markets and with larger orders.",
+    "extendedDefinition": "Slippage is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding slippage is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, slippage connects to Liquidity, Orderbook, Market Order. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "liquidity-pool",
+      "orderbook",
+      "market-order"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "spread",
+    "term": "Spread",
+    "definition": "The difference between best bid and best ask price. Tighter spreads indicate more liquid markets with lower costs.",
+    "extendedDefinition": "Spread is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding spread is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, spread connects to Bid-Ask, Orderbook, Market Maker. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "bid-ask",
+      "orderbook",
+      "market-maker"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "bid-ask",
+    "term": "Bid-Ask",
+    "definition": "Bid is highest buyer price; ask is lowest seller price. The gap is the spread — the cost of immediate execution.",
+    "extendedDefinition": "Bid-Ask is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding bid-ask is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, bid-ask connects to Spread, Orderbook, Limit Order. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "spread",
+      "orderbook",
+      "limit-order"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "leverage",
+    "term": "Leverage",
+    "definition": "Using borrowed capital to amplify positions. Most prediction markets are fully collateralized with no leverage available.",
+    "extendedDefinition": "Leverage is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding leverage is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, leverage connects to Position Sizing, Risk-Reward Ratio, Bankroll Management. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "position-sizing",
+      "risk-reward-ratio",
+      "bankroll-management"
+    ],
+    "category": "trading"
+  },
+  {
+    "slug": "binary-market",
+    "term": "Binary Market",
+    "definition": "A market with exactly two outcomes — YES or NO. Winners pay $1 per share, losers pay $0.",
+    "extendedDefinition": "Binary Market is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding binary market is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, binary market connects to Prediction Market, Resolution, Outcome. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "prediction-market",
+      "resolution",
+      "outcome"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "prediction-market",
+    "term": "Prediction Market",
+    "definition": "A speculative market trading contracts on future event outcomes. Prices reflect aggregate probability estimates.",
+    "extendedDefinition": "Prediction Market is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding prediction market is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, prediction market connects to Binary Market, Implied Probability, Outcome. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "binary-market",
+      "implied-probability",
+      "outcome"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "resolution",
+    "term": "Resolution",
+    "definition": "The process of determining and settling a market outcome. Winning shares pay $1, losing shares pay $0.",
+    "extendedDefinition": "Resolution is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding resolution is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, resolution connects to Outcome, Binary Market, Event Contract. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "outcome",
+      "binary-market",
+      "event-contract"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "outcome",
+    "term": "Outcome",
+    "definition": "A possible result of a prediction market. Binary markets have two (YES/NO); multi-outcome markets can have many.",
+    "extendedDefinition": "Outcome is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding outcome is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, outcome connects to Resolution, Binary Market, Prediction Market. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "resolution",
+      "binary-market",
+      "prediction-market"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "orderbook",
+    "term": "Orderbook",
+    "definition": "Real-time list of all buy and sell orders organized by price. Shows available liquidity and best bid/ask.",
+    "extendedDefinition": "Orderbook is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding orderbook is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, orderbook connects to Bid-Ask, Spread, CLOB. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "bid-ask",
+      "spread",
+      "clob"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "liquidity-pool",
+    "term": "Liquidity",
+    "definition": "Capital available for trading. Higher liquidity means less slippage and tighter spreads on execution.",
+    "extendedDefinition": "Liquidity is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding liquidity is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, liquidity connects to Orderbook, Slippage, Market Maker. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "orderbook",
+      "slippage",
+      "market-maker"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "market-maker",
+    "term": "Market Maker",
+    "definition": "A participant providing liquidity by posting continuous buy and sell orders. Earns the spread but assumes inventory risk.",
+    "extendedDefinition": "Market Maker is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding market maker is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, market maker connects to Orderbook, Spread, Liquidity. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "orderbook",
+      "spread",
+      "liquidity-pool"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "event-contract",
+    "term": "Event Contract",
+    "definition": "A tradeable contract tied to a specific real-world event outcome. The building block of prediction markets.",
+    "extendedDefinition": "Event Contract is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding event contract is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, event contract connects to Prediction Market, Binary Market, Resolution. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "prediction-market",
+      "binary-market",
+      "resolution"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "conditional-market",
+    "term": "Conditional Market",
+    "definition": "A market whose resolution depends on another event occurring first. Creates complex probability dynamics.",
+    "extendedDefinition": "Conditional Market is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding conditional market is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, conditional market connects to Binary Market, Multi-Outcome Market, Prediction Market. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "binary-market",
+      "multi-outcome",
+      "prediction-market"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "multi-outcome",
+    "term": "Multi-Outcome Market",
+    "definition": "A market with more than two possible outcomes. Each outcome trades independently; prices sum to approximately $1.",
+    "extendedDefinition": "Multi-Outcome Market is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding multi-outcome market is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, multi-outcome market connects to Binary Market, Outcome, Prediction Market. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "binary-market",
+      "outcome",
+      "prediction-market"
+    ],
+    "category": "markets"
+  },
+  {
+    "slug": "alpha-score",
+    "term": "Alpha Score",
+    "definition": "Composite metric (0-100) measuring trading opportunity strength based on smart money consensus, divergence, and timing.",
+    "extendedDefinition": "Alpha Score is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding alpha score is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, alpha score connects to Consensus Direction, Edge, opportunity-score. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "consensus-direction",
+      "edge",
+      "opportunity-score"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "consensus-direction",
+    "term": "Consensus Direction",
+    "definition": "Aggregate directional view of smart wallets. Shown as STRONG YES, STRONG NO, or SPLIT based on positioning.",
+    "extendedDefinition": "Consensus Direction is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding consensus direction is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, consensus direction connects to Alpha Score, Smart Wallet, Edge. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "alpha-score",
+      "smart-wallet",
+      "edge"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "edge",
+    "term": "Edge",
+    "definition": "Difference between market price and estimated true probability. Positive edge means mispricing in your favor.",
+    "extendedDefinition": "Edge is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding edge is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, edge connects to Alpha Score, Consensus Direction, Implied Probability. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "alpha-score",
+      "consensus-direction",
+      "implied-probability"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "implied-probability",
+    "term": "Implied Probability",
+    "definition": "Probability implied by market price. A $0.65 YES share implies 65% probability. Compare to your estimate to find edge.",
+    "extendedDefinition": "Implied Probability is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding implied probability is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, implied probability connects to Edge, Prediction Market, Binary Market. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "edge",
+      "prediction-market",
+      "binary-market"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "sharpe-ratio",
+    "term": "Sharpe Ratio",
+    "definition": "Risk-adjusted return metric. Excess return divided by volatility. Above 1.0 is good; above 3.0 is excellent.",
+    "extendedDefinition": "Sharpe Ratio is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding sharpe ratio is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, sharpe ratio connects to Profit Factor, Drawdown, Win Rate. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "profit-factor",
+      "drawdown",
+      "win-rate"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "win-rate",
+    "term": "Win Rate",
+    "definition": "Percentage of profitable trades. High win rate alone does not guarantee profitability — depends on win/loss size ratio.",
+    "extendedDefinition": "Win Rate is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding win rate is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, win rate connects to Profit Factor, Expectancy, Sharpe Ratio. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "profit-factor",
+      "expectancy",
+      "sharpe-ratio"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "drawdown",
+    "term": "Drawdown",
+    "definition": "Peak-to-trough decline in portfolio value. Maximum drawdown shows worst historical decline — key risk metric.",
+    "extendedDefinition": "Drawdown is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding drawdown is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, drawdown connects to Sharpe Ratio, Bankroll Management, Risk-Reward Ratio. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "sharpe-ratio",
+      "bankroll-management",
+      "risk-reward-ratio"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "expectancy",
+    "term": "Expectancy",
+    "definition": "Average expected profit per trade: (win rate x avg win) - (loss rate x avg loss). Must be positive for viable strategy.",
+    "extendedDefinition": "Expectancy is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding expectancy is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, expectancy connects to Win Rate, Profit Factor, Edge. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "win-rate",
+      "profit-factor",
+      "edge"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "profit-factor",
+    "term": "Profit Factor",
+    "definition": "Gross profits divided by gross losses. Above 1.0 is profitable; above 1.5 is healthy; above 2.0 is excellent.",
+    "extendedDefinition": "Profit Factor is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding profit factor is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, profit factor connects to Sharpe Ratio, Win Rate, Expectancy. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "sharpe-ratio",
+      "win-rate",
+      "expectancy"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "annualized-return",
+    "term": "Annualized Return",
+    "definition": "Return scaled to one year. Short-duration prediction markets can show extremely high annualized returns.",
+    "extendedDefinition": "Annualized Return is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding annualized return is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, annualized return connects to opportunity-score, Edge, Alpha Score. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "opportunity-score",
+      "edge",
+      "alpha-score"
+    ],
+    "category": "analysis"
+  },
+  {
+    "slug": "polymarket",
+    "term": "Polymarket",
+    "definition": "Largest decentralized prediction market on Polygon blockchain. Uses USDC, CLOB matching, thousands of active markets.",
+    "extendedDefinition": "Polymarket is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding polymarket is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, polymarket connects to CLOB, Prediction Market, Smart Wallet. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "clob",
+      "prediction-market",
+      "smart-wallet"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "kalshi",
+    "term": "Kalshi",
+    "definition": "US CFTC-regulated prediction market. Event contracts in USD with full regulatory compliance. Limited vs Polymarket selection.",
+    "extendedDefinition": "Kalshi is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding kalshi is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, kalshi connects to Polymarket, Prediction Market, Event Contract. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "polymarket",
+      "prediction-market",
+      "event-contract"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "copy-trading",
+    "term": "Copy Trading",
+    "definition": "Automatically mirroring trades of selected wallets. When a copied wallet trades, the same executes in your account.",
+    "extendedDefinition": "Copy Trading is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding copy trading is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, copy trading connects to Smart Wallet, Wallet Score, Signal Arena. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "smart-wallet",
+      "wallet-score",
+      "signal-arena"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "smart-wallet",
+    "term": "Smart Wallet",
+    "definition": "A wallet identified as consistently profitable. TradeSphere tracks 29,000+ wallets scored by historical performance.",
+    "extendedDefinition": "Smart Wallet is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding smart wallet is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, smart wallet connects to Copy Trading, Wallet Score, Consensus Direction. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "copy-trading",
+      "wallet-score",
+      "consensus-direction"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "signal-arena",
+    "term": "Signal Arena",
+    "definition": "PolyFire leaderboard of AI bots paper-trading real orderbooks. Users subscribe to winning bot signals.",
+    "extendedDefinition": "Signal Arena is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding signal arena is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, signal arena connects to Paper Trading, Copy Trading, Alpha Score. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "paper-trading",
+      "copy-trading",
+      "alpha-score"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "paper-trading",
+    "term": "Paper Trading",
+    "definition": "Simulated trading with real market data but no real money at risk. Used to test strategies and track bot performance.",
+    "extendedDefinition": "Paper Trading is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding paper trading is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, paper trading connects to Signal Arena, Copy Trading, Smart Wallet. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "signal-arena",
+      "copy-trading",
+      "smart-wallet"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "clob",
+    "term": "CLOB",
+    "definition": "Central Limit Order Book — order matching by price priority. Polymarket uses CLOB for transparent price discovery.",
+    "extendedDefinition": "CLOB is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding clob is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, clob connects to Orderbook, Polymarket, AMM. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "orderbook",
+      "polymarket",
+      "amm"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "amm",
+    "term": "AMM",
+    "definition": "Automated Market Maker — algorithmic liquidity via mathematical formula instead of individual orders. Simpler but less efficient.",
+    "extendedDefinition": "AMM is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding amm is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, amm connects to CLOB, Market Maker, Liquidity. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "clob",
+      "market-maker",
+      "liquidity-pool"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "api-trading",
+    "term": "API Trading",
+    "definition": "Programmatic trade execution via application programming interface. Enables algorithmic strategies and custom tools.",
+    "extendedDefinition": "API Trading is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding api trading is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, api trading connects to CLOB, Signal Arena, Polymarket. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "clob",
+      "signal-arena",
+      "polymarket"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "wallet-score",
+    "term": "Wallet Score",
+    "definition": "Composite rating (0-100) for tracked wallets based on performance, consistency, and patterns. Higher = more reliable.",
+    "extendedDefinition": "Wallet Score is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding wallet score is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, wallet score connects to Smart Wallet, Copy Trading, Win Rate. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "smart-wallet",
+      "copy-trading",
+      "win-rate"
+    ],
+    "category": "platforms"
+  },
+  {
+    "slug": "bankroll-management",
+    "term": "Bankroll Management",
+    "definition": "Managing total capital to survive losing streaks and maximize long-term growth. Never risk enough to be knocked out.",
+    "extendedDefinition": "Bankroll Management is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding bankroll management is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, bankroll management connects to Position Sizing, Kelly Criterion, Drawdown. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "position-sizing",
+      "kelly-criterion",
+      "drawdown"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "risk-reward-ratio",
+    "term": "Risk-Reward Ratio",
+    "definition": "Potential loss vs potential gain per trade. A $0.30 YES share risks 0.30 to gain 0.70 — roughly 1:2.3 ratio.",
+    "extendedDefinition": "Risk-Reward Ratio is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding risk-reward ratio is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, risk-reward ratio connects to Position Sizing, Edge, Implied Probability. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "position-sizing",
+      "edge",
+      "implied-probability"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "max-drawdown",
+    "term": "Maximum Drawdown",
+    "definition": "Largest percentage decline from peak to trough. The most important risk metric — shows worst case to survive.",
+    "extendedDefinition": "Maximum Drawdown is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding maximum drawdown is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, maximum drawdown connects to Drawdown, Bankroll Management, Sharpe Ratio. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "drawdown",
+      "bankroll-management",
+      "sharpe-ratio"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "hedging",
+    "term": "Hedging",
+    "definition": "Taking offsetting positions to reduce risk. Buy NO against YES, or trade correlated markets in opposite directions.",
+    "extendedDefinition": "Hedging is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding hedging is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, hedging connects to Diversification, Correlation, Risk-Reward Ratio. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "diversification",
+      "correlation",
+      "risk-reward-ratio"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "diversification",
+    "term": "Diversification",
+    "definition": "Spreading capital across uncorrelated markets. Prevents single bad outcomes from devastating total returns.",
+    "extendedDefinition": "Diversification is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding diversification is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, diversification connects to Correlation, Hedging, Bankroll Management. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "correlation",
+      "hedging",
+      "bankroll-management"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "correlation",
+    "term": "Correlation",
+    "definition": "Degree to which markets move together. High correlation reduces diversification benefit. Essential for portfolio risk.",
+    "extendedDefinition": "Correlation is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding correlation is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, correlation connects to Diversification, Hedging, Variance. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "diversification",
+      "hedging",
+      "variance"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "variance",
+    "term": "Variance",
+    "definition": "How much returns deviate from average. Binary markets have inherently high per-trade variance.",
+    "extendedDefinition": "Variance is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding variance is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, variance connects to Sharpe Ratio, Drawdown, Tail Risk. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "sharpe-ratio",
+      "drawdown",
+      "tail-risk"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "kelly-criterion",
+    "term": "Kelly Criterion",
+    "definition": "Optimal sizing formula: bet = edge / odds. Maximizes growth but is aggressive — use fractional Kelly (25-50%).",
+    "extendedDefinition": "Kelly Criterion is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding kelly criterion is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, kelly criterion connects to Position Sizing, Bankroll Management, Edge. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "position-sizing",
+      "bankroll-management",
+      "edge"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "ruin-probability",
+    "term": "Probability of Ruin",
+    "definition": "Chance of losing your entire bankroll given edge and sizing. Even profitable strategies have non-zero ruin risk if oversized.",
+    "extendedDefinition": "Probability of Ruin is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding probability of ruin is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, probability of ruin connects to Bankroll Management, Kelly Criterion, Variance. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "bankroll-management",
+      "kelly-criterion",
+      "variance"
+    ],
+    "category": "risk"
+  },
+  {
+    "slug": "tail-risk",
+    "term": "Tail Risk",
+    "definition": "Risk of rare extreme outcomes outside normal expectations. When impossible events happen — low-probability markets resolving YES.",
+    "extendedDefinition": "Tail Risk is a fundamental concept in prediction market trading. In platforms like Polymarket with thousands of active markets, understanding tail risk is essential for consistent profitability. TradeSphere data across 5,400+ markets shows that traders who master these concepts significantly outperform those trading on instinct.\n\nIn practice, tail risk connects to Variance, Maximum Drawdown, Hedging. PolyPulse tracks these metrics and publishes weekly analysis. For hands-on application, PolyFire provides real-time market data and copy trading via Telegram.",
+    "relatedTerms": [
+      "variance",
+      "max-drawdown",
+      "hedging"
+    ],
+    "category": "risk"
+  }
+]
