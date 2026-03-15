@@ -57,7 +57,11 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
         <section key={idx} className="mb-10">
           <h2 className="text-2xl font-bold text-white mb-4">{section.heading}</h2>
           {section.content.split('\n\n').map((para: string, pIdx: number) => (
-            <p key={pIdx} className="text-[#9ca3af] leading-relaxed mb-4">{para}</p>
+            <p
+              key={pIdx}
+              className="text-[#9ca3af] leading-relaxed mb-4 [&_a]:text-purple-400 [&_a]:underline [&_a]:underline-offset-2 [&_a:hover]:text-purple-300"
+              dangerouslySetInnerHTML={{ __html: para }}
+            />
           ))}
         </section>
       ))}
@@ -70,7 +74,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
             {guide.faqs.map((faq: { question: string; answer: string }, idx: number) => (
               <div key={idx} className="rounded-lg border border-[#1f2937] bg-[#111827] p-5">
                 <h3 className="text-white font-semibold mb-2">{faq.question}</h3>
-                <p className="text-[#9ca3af] text-sm leading-relaxed">{faq.answer}</p>
+                <p className="text-[#9ca3af] text-sm leading-relaxed [&_a]:text-purple-400 [&_a]:underline [&_a]:underline-offset-2 [&_a:hover]:text-purple-300" dangerouslySetInnerHTML={{ __html: faq.answer }} />
               </div>
             ))}
           </div>
