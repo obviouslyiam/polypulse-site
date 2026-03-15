@@ -28,7 +28,7 @@ export default function NewsletterCTA() {
         throw new Error((body as { error?: string }).error || `HTTP ${res.status}`);
       }
       setStatus('success');
-      setMessage('You\'re subscribed. Check your inbox for confirmation.');
+      setMessage("You're subscribed. Check your inbox for confirmation.");
       setEmail('');
     } catch (err) {
       setStatus('error');
@@ -52,13 +52,11 @@ export default function NewsletterCTA() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
-            disabled={status === 'loading' || status === 'success'}
-            className="flex-1 bg-[#0a0f1a] border border-[#1f2937] rounded-lg px-4 py-3 text-sm text-white placeholder-[#9ca3af] focus:outline-none focus:border-[#8b5cf6] transition-colors disabled:opacity-60"
+            className="flex-1 bg-[#0a0f1a] border border-[#1f2937] rounded-lg px-4 py-3 text-sm text-white placeholder-[#9ca3af] focus:outline-none focus:border-[#8b5cf6] transition-colors"
           />
           <button
             type="submit"
-            disabled={status === 'loading' || status === 'success'}
-            className="bg-[#8b5cf6] hover:bg-[#7c3aed] text-white text-sm font-semibold px-6 py-3 rounded-lg transition-colors disabled:opacity-60 disabled:cursor-not-allowed"
+            className="bg-[#8b5cf6] hover:bg-[#7c3aed] text-white text-sm font-semibold px-6 py-3 rounded-lg transition-colors"
           >
             {status === 'loading' ? 'Subscribing...' : status === 'success' ? 'Subscribed' : 'Subscribe'}
           </button>
