@@ -115,3 +115,4 @@ xml += `</urlset>`;
 const totalUrls = staticPages.length + markets.length + seenWallets.size + categories.length + guides.length + glossary.length + comparisons.length;
 writeFileSync(join(publicDir, 'sitemap.xml'), xml);
 console.log(`Sitemap generated: ${totalUrls} URLs`);
+
